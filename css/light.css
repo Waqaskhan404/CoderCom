@@ -1,0 +1,45 @@
+:root {
+    --primary: #4b56e4;
+    --secondary: #25cca9;
+    --white: #ffffff;
+    --dark: #000000;
+    --dark-gray: #515050ae;
+    --light-gray: #87878f;
+    --hover-light-gray: #87878f;
+    --back_circle_1: #ffd8d1;
+    --back_circle_2: #c5b9ff;
+
+    --primary-btn: #4b56e4;
+    --secondary-btn: #25cca9;
+
+    --primary-logo-text: #4b56e4;
+    --secondary-logo-text: #25cca9;
+
+
+    --bg: #e7eaf2;
+    --hero-bg: #e7eaf2;
+    --blur: 80px;
+
+    --bg-3: rgba(255, 255, 255, .1);
+    --bg-4: rgba(255, 255, 255, .2);
+    --bg-5: rgba(255, 255, 255, .5);
+    --bg-7: rgba(255, 255, 255, .7);
+
+    --modal-close-bg: #ffffff;
+    --nav-icon-bg: #ffffff;
+
+    --bottom-navbar-bg:rgba(255, 255, 255, 0.5);
+    --nav-text-color:#4b56e4;
+
+    --padding-x: 5%;
+
+    --border: #aeaeb58c;
+
+    --modal-btn-bg: rgba(255, 255, 255, 0.491);
+    --card--bg:linear-gradient(to bottom right,#25cc7e93,#4b55e476);
+    --app--bg:linear-gradient(to bottom right,#25cca826,#4b55e41d);
+
+    --inter: 'Inter', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+
+}
